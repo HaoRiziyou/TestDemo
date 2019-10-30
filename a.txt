@@ -1,3 +1,5 @@
 this is a new file
 the first line
 3333
+git config core.autocrlf true
+$ git config --global core.autocrlf true  for windows
