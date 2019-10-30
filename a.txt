@@ -3,3 +3,4 @@ the first line
 3333
 git config core.autocrlf true
 $ git config --global core.autocrlf true  for windows
+add a line
